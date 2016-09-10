@@ -1,10 +1,11 @@
 {
   "name": "pkgcfg-example",
-  "version": "0.5.0",
+  "version": "0.7.0",
   "description": "Example project using pkgcfg to add dynamic behavior to package.json",
   "main": "pkgcfg-example.js",
   "scripts": {
-    "test": "mocha pkgcfg-example.spec.js"
+    "test": "mocha pkgcfg-example.spec.js",
+    "smart-test": "echo {pkg name} is the best: {eval 3 > 2}"
   },
   "repository": {
     "type": "git",
@@ -23,14 +24,13 @@
   },
   "homepage": "https://github.com/download/pkgcfg-example#readme",
   "dependencies": {
-    "pkgcfg": "0.x",
-    "pkgenv": "0.x",
-    "pkgeval": "0.x"
+    "pkgcfg": "^0.7.1",
+    "pkgenv": "^0.7.0",
+    "pkgeval": "^0.7.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
-    "mocha": "^3.0.2",
-    "picolog": "^1.0.4"
+    "mocha": "^3.0.2"
   },
   "test": {
     "env": "{env PATH}",
