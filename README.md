@@ -40,7 +40,7 @@ Run the tests:
 ```sh
 npm run test
 
-> pkgcfg-example@0.5.0 test c:\pkgcfg-example
+> pkgcfg-example@0.7.0 test c:\pkgcfg-example
 > mocha pkgcfg-example.spec.js
 
 
