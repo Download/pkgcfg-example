@@ -24,9 +24,9 @@
   },
   "homepage": "https://github.com/download/pkgcfg-example#readme",
   "dependencies": {
-    "pkgcfg": "^0.7.1",
-    "pkgenv": "^0.7.0",
-    "pkgeval": "^0.7.0"
+    "pkgcfg": "^0.8.1",
+    "pkgenv": "^0.8.0",
+    "pkgeval": "^0.8.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
