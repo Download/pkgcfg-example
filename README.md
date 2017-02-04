@@ -1,6 +1,8 @@
 # pkgcfg-example <sub><sup>0.7.0</sup></sub>
 ## One configuration to rule them all
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Download/pkgcfg-example.svg)](https://greenkeeper.io/)
+
 [![npm](https://img.shields.io/npm/v/pkgcfg-example.svg?maxAge=2592000)](https://npmjs.com/package/pkgcfg-example)
 [![license](https://img.shields.io/npm/l/pkgcfg-example.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![travis](https://img.shields.io/travis/Download/pkgcfg-example.svg)](https://travis-ci.org/Download/pkgcfg-example)
